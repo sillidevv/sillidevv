@@ -1,13 +1,12 @@
-<table align="center">
-    <tr>
-        <td>
-            <img height="200px" src="https://i.imgur.com/heqCkYz.jpg">
-        </td>
-        <td>
-            <h1>Hi im kuemu</h1>
-            <h3>:3</h3>
-        </td>
-    </tr>
+<table>
+	<tr>
+		<td>
+			<img height="200px" src="https://i.imgur.com/heqCkYz.jpg">
+		</td>
+		<td style="padding-left: 10px; vertical-align: middle;">
+			<h1>Hi im kuemu :3</h1>
+		</td>
+	</tr>
 </table>
 
 # Tech Stack:
