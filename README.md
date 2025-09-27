@@ -1,7 +1,7 @@
 <table>
 	<tr>
 		<td>
-			<img height="200px" src="https://i.imgur.com/heqCkYz.jpg">
+			<img height="200px" src="https://static.wikia.nocookie.net/qualdies-methlab/images/3/31/Soggycat.png/revision/latest/thumbnail/width/360/height/360?cb=20240422153125">
 		</td>
 		<td style="padding-left: 10px; vertical-align: middle;">
 			<h1>Hi im kuemu :3</h1>
