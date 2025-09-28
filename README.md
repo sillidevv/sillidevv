@@ -8,7 +8,6 @@
 - **Games (roblox, godot)**
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
-- **Random cli tools**
 - **APIs**
 ---
 
