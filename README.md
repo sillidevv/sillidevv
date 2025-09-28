@@ -14,7 +14,7 @@
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=sillidevv&theme=aura&hide_border=false)<br/> -->
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sillidevv&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=sillidevv&limit=5&theme=aura&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sillidevv&icon=0&color=0)](https://visitcount.itsvg.in)
