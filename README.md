@@ -11,7 +11,7 @@
 ## Github stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sillidevv&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sillidevv&theme=aura&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=sillidevv&theme=aura&hide_border=false)<br/> -->
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sillidevv&limit=5&theme=aura&combine_all_yearly_contributions=true)
