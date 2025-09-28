@@ -4,12 +4,12 @@
 
 **But anyways here is what i can make:**
 
-- Web apps
-- Games (roblox, godot)
-- Geometry dash mods
-- Embedded/bare metal stuff (armv7 and riscv64)
-- Random cli tools
-- APIs
+- **Web apps**
+- **Games (roblox, godot)**
+- **Geometry dash mods**
+- **Embedded/bare metal stuff (armv7 and riscv64)**
+- **Random cli tools**
+- **APIs**
 ---
 
 ### Langauges:
