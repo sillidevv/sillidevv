@@ -2,7 +2,7 @@
 
 **I mainly code random stuff with no purpose, i dont specialize in any field**
 
-**But anyways here is what i can make:**
+**But anyways here is some of what i can make:**
 
 - **Web apps**
 - **Games (roblox, godot)**
