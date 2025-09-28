@@ -1,5 +1,15 @@
 # Hi im kuemu :3
 
+**I mainly code random stuff with no purpose, i dont specialize in any field**
+
+**But anyways here is what i can make:**
+
+- Web apps
+- Games (roblox, godot)
+- Geometry dash mods
+- Embedded/bare metal stuff (armv7 and riscv64)
+- Random cli tools
+- APIs
 ---
 
 ### Langauges:
@@ -19,8 +29,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=sillidevv&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=sillidevv&theme=aura&hide_border=false)<br/> -->
 
-## Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sillidevv&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sillidevv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### NOTE: I dont upload my projects to github often. It might seem like I barely have any projects and dont know most of the stuff mentioned in my tech stack, thats not the case though, its just that very rarely upload my projects to github (mainly because my code is bad and embarassing to post on here)
