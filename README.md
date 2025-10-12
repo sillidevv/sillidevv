@@ -9,7 +9,7 @@
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
 - **APIs**
-- **Programming languages (still learning**
+- **Programming languages (still learning)**
 ---
 
 ### Langauges
