@@ -1,6 +1,6 @@
 # Hi im kuemu :3
 
-**I mainly code random stuff with no purpose, I dont specialize in any field**
+**I mainly code random stuff with no purpose, I dont specialize in any field as im code just for fun**
 
 **But anyways here is some of what I can make:**
 
@@ -9,6 +9,7 @@
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
 - **APIs**
+- **Programming languages (still learning**
 ---
 
 ### Langauges
