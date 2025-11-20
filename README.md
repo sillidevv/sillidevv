@@ -34,4 +34,5 @@
 
 ---
 
-**NOTE: I dont upload my projects to github often. It might seem like I barely have any projects and dont know most of the stuff mentioned in my tech stack, thats not the case though, its just that I very rarely upload my projects to github (mainly because my code is bad and embarassing to post on here)**
+> [!NOTE] 
+> **I dont upload my projects to github often. It might seem like I barely have any projects and dont know most of the stuff mentioned in my tech stack, thats not the case though, its just that I very rarely upload my projects to github (mainly because my code is bad and embarassing to post on here)**
