@@ -1,6 +1,6 @@
 # Hi im kuemu :3
 
-**I mainly code random stuff with no purpose, I dont specialize in any field as im code just for fun**
+**I mainly code random stuff with no purpose, I dont specialize in any field as i code just for fun**
 
 **But anyways here is some of what I can make:**
 
