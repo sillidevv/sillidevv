@@ -1,4 +1,4 @@
-# Hi im kuemu :3
+# Hi im Max :3
 
 **I mainly code random stuff with no purpose, I dont specialize in any field as i code just for fun**
 
