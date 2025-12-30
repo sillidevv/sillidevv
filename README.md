@@ -4,7 +4,7 @@
 
 **But anyways here is some of what I can make:**
 
-- **Web apps**
+- **Web stuff (backends, frontends, web apps, apis)**
 - **Games (roblox, godot)**
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
