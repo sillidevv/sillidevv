@@ -2,15 +2,12 @@
 
 **I mainly code random stuff with no purpose, I dont specialize in any field as i code just for fun**
 
-**My main programming language is rust as i make basically everything i can in it**
-
 **But anyways here is some of what I can make:**
 
 - **Web stuff (backends, frontends, web apps, apis)**
 - **Games (roblox, godot)**
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
-- **APIs**
 - **Programming languages (still learning)**
 ---
 
@@ -23,6 +20,9 @@
 
 ### Game dev
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+### Mainly use
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
