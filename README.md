@@ -2,6 +2,8 @@
 
 **I mainly code random stuff with no purpose, I dont specialize in any field as i code just for fun**
 
+**My main programming language is rust as i make basically everything i can in it**
+
 **But anyways here is some of what I can make:**
 
 - **Web stuff (backends, frontends, web apps, apis)**
