@@ -10,7 +10,7 @@
 - **Embedded/bare metal stuff (armv7 and riscv64)**
 - **Programming languages (still learning)**
 
-I like brainfuck :D
+**I like brainfuck :D**
 
 ---
 
