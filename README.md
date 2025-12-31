@@ -2,13 +2,14 @@
 
 **I mainly code random stuff with no purpose, I dont specialize in any field as i code just for fun**
 
-**But anyways here is some of what I can make:**
+**But anyways here is some of what I can do:**
 
-- **Web stuff (backends, frontends, web apps, apis)**
-- **Games (roblox, godot)**
-- **Geometry dash mods**
-- **Embedded/bare metal stuff (armv7 and riscv64)**
-- **Programming languages (still learning)**
+- **Web:** Backends and APIS (ASP.NET Core, FastAPI), Frontends (React)
+- **Desktop apps:** WPF, Slint, React + Tauri / Electron (which I hate)
+- **Games:** Roblox, Godot
+- **Geometry dash mods:** i love gd cologne
+- **Bare metal stuff:** RISC-V (Only tried riscv64 dev but I could probably adapt to riscv32 pretty easily) and ARMv7
+- **Programming languages:** Still learning, find it really fun
 
 **I like brainfuck :D**
 
