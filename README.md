@@ -9,6 +9,8 @@
 - **Geometry dash mods**
 - **Embedded/bare metal stuff (armv7 and riscv64)**
 - **Programming languages (still learning)**
+
+I like brainfuck :D
 ---
 
 ### Langauges
