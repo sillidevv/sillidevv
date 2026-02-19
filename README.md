@@ -7,7 +7,7 @@
 - **Web:** Backends and APIS (ASP.NET Core, FastAPI), Frontends (React)
 - **Desktop apps:** WPF, Slint, React + Tauri / Electron (which I hate)
 - **Games:** Roblox, Godot
-- **Geometry dash mods:** i love gd cologne
+- **Geometry dash mods:** Geode
 - **Bare metal stuff:** RISC-V (Only tried riscv64 dev but I could probably adapt to riscv32 pretty easily) and ARMv7
 - **Programming languages:** Still learning, find it really fun
 
